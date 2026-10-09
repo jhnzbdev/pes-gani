@@ -177,5 +177,7 @@ The `.frig` arm-chain mapping follows the explanation in that ResHax thread.
 MIT for the code in this repo. `clip_name_map.json` is reverse engineered metadata,
 meaning names, hashes and frame counts, and it contains no animation data.
 
-PES is a trademark of Konami. This project ships no game assets and is not affiliated
-with or endorsed by Konami.
+This repository ships no game assets. It contains tools that read files the user
+supplies, plus metadata derived from those files. Pro Evolution Soccer and eFootball
+are trademarks of Konami Digital Entertainment. This project is not affiliated with or
+endorsed by Konami.
