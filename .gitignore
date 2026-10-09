@@ -1,0 +1,26 @@
+# no game assets, ever
+*.cpk
+*.mtar
+*.gani
+*.ask
+*.frig
+*.fmdl
+*.bin
+anim_infos.json
+
+# extracted trees
+extracted/
+dt13/
+dt18/
+
+# output
+out/
+out_all/
+out_full/
+*.json.bak
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
